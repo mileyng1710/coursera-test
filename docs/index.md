@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hello Miley
 
 You can use the [editor on GitHub](https://github.com/mileyng1710/coursera-test/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
